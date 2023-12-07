@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdint.h>
 #include "utils.h"
 
 const uint16_t WINNING_STATES[] = { 0b000000111,

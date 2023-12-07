@@ -1,5 +1,4 @@
 #include <stdint.h>
-#pragma once
 
 uint16_t x_board = 0;
 uint16_t o_board = 0;

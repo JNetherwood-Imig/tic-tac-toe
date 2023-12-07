@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "utils.h"
 
 void draw_board() {
 	printf("\n");
